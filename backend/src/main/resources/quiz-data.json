@@ -1,0 +1,128 @@
+{
+  "tiePriority": [
+    "pink-manipulator",
+    "corporate-heartbreaker",
+    "romantic-menace",
+    "lavender-chaos-queen",
+    "innocent-menace"
+  ],
+  "villains": [
+    {
+      "id": "pink-manipulator",
+      "name": "The Pink Manipulator",
+      "description": "Looks innocent. Already has a plan.",
+      "signatureQuote": "She said no worries. Start worrying.",
+      "outfitImage": "/assets/outfits/pink.svg",
+      "outfitDescription": "Blush knits, ribbon bows, pearl details, and ballet-flat energy.",
+      "suggestedAestheticId": "pink",
+      "catStickerPath": "/assets/stickers/cat.svg",
+      "collages": [
+        { "title": "Pretty but Petty", "items": ["Bow cardigan", "Pleated mini", "Pearl details", "Ballet flats", "Mini shoulder bag", "Lip gloss"] },
+        { "title": "Soft Launch, Sharp Plans", "items": ["Blush knit", "Ribbon barrette", "Quilted purse", "Satin scrunchie", "Heart compact"] }
+      ]
+    },
+    {
+      "id": "corporate-heartbreaker",
+      "name": "Corporate Heartbreaker",
+      "description": "Closes deals. Opens old wounds.",
+      "signatureQuote": "Emotionally unavailable. Professionally booked.",
+      "outfitImage": "/assets/outfits/corporate.svg",
+      "outfitDescription": "Charcoal tailoring, pointed heels, gold accents, and deadline energy.",
+      "suggestedAestheticId": "red",
+      "catStickerPath": "/assets/stickers/cat.svg",
+      "collages": [
+        { "title": "CEO of Bad Decisions", "items": ["Structured blazer", "Tailored trousers", "Pointed heels", "Gold hoops", "Sunglasses", "Iced coffee"] },
+        { "title": "Booked & Unbothered", "items": ["Cream shirt", "Leather-look tote", "Slim watch", "Statement belt", "Meeting notes"] }
+      ]
+    },
+    {
+      "id": "romantic-menace",
+      "name": "Romantic Menace",
+      "description": "Love letters in one hand. A dramatic exit in the other.",
+      "signatureQuote": "Breaking hearts, not dress codes.",
+      "outfitImage": "/assets/outfits/drama.svg",
+      "outfitDescription": "Cherry-red drama, lace details, and a rose-red finishing touch.",
+      "suggestedAestheticId": "red",
+      "catStickerPath": "/assets/stickers/cat.svg",
+      "collages": [
+        { "title": "Love Is a Battlefield", "items": ["Cherry-red dress", "Corset-inspired top", "Lace detail", "Dramatic heels", "Rose bouquet", "Red lipstick"] },
+        { "title": "Signed, Sealed, Suspicious", "items": ["Burgundy clutch", "Heart locket", "Satin ribbon", "Evening gloves"] }
+      ]
+    },
+    {
+      "id": "lavender-chaos-queen",
+      "name": "Lavender Chaos Queen",
+      "description": "Your calendar is on fire. Your outfit is immaculate.",
+      "signatureQuote": "Mentally on vacation. Physically at a deadline.",
+      "outfitImage": "/assets/outfits/velvet.svg",
+      "outfitDescription": "Soft lilac layers, metallic accessories, and platform-level confidence.",
+      "suggestedAestheticId": "purple",
+      "catStickerPath": "/assets/stickers/cat.svg",
+      "collages": [
+        { "title": "Delulu but Designer", "items": ["Oversized lilac knit", "Lavender mini bag", "Platform shoes", "Silver hoops", "Playful charm", "Metallic clip"] },
+        { "title": "Out of Office-ish", "items": ["Pastel sweater", "Purple shoulder bag", "Chunky rings", "Shimmer compact"] }
+      ]
+    },
+    {
+      "id": "innocent-menace",
+      "name": "Innocent Menace",
+      "description": "Sweet face. Detailed notes. Excellent memory.",
+      "signatureQuote": "Looks innocent. Keeps receipts.",
+      "outfitImage": "/assets/outfits/pink.svg",
+      "outfitDescription": "A butter-yellow cardigan, a pleated skirt, and a ribbon with a secret.",
+      "suggestedAestheticId": "pink",
+      "catStickerPath": "/assets/stickers/cat.svg",
+      "collages": [
+        { "title": "Sweet Face, Secret Agenda", "items": ["Butter-yellow cardigan", "Pleated skirt", "Mary Janes", "Mini bag", "Hair ribbon", "Tiny flowers"] },
+        { "title": "Sugar, Spice & Receipts", "items": ["Cream knit", "Pastel-blue bag", "Pearl clips", "Blush socks", "Flower pin"] }
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "q1",
+      "text": "Your entrance music starts. What’s the first impression?",
+      "answers": [
+        { "id": "q1-pink", "text": "Sweet smile, suspiciously perfect timing.", "villainId": "pink-manipulator" },
+        { "id": "q1-corporate", "text": "Tailored, composed, already in charge.", "villainId": "corporate-heartbreaker" },
+        { "id": "q1-romantic", "text": "A cherry-red entrance and a rose in hand.", "villainId": "romantic-menace" }
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "A minor inconvenience appears. Your move?",
+      "answers": [
+        { "id": "q2-lavender", "text": "Make a color-coded plan, then ignore it in style.", "villainId": "lavender-chaos-queen" },
+        { "id": "q2-innocent", "text": "Smile sweetly. Save every screenshot.", "villainId": "innocent-menace" },
+        { "id": "q2-pink", "text": "Offer help. Keep the useful details.", "villainId": "pink-manipulator" }
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Pick a power accessory.",
+      "answers": [
+        { "id": "q3-corporate", "text": "A watch that says this meeting ends on time.", "villainId": "corporate-heartbreaker" },
+        { "id": "q3-romantic", "text": "A red lipstick with main-character energy.", "villainId": "romantic-menace" },
+        { "id": "q3-lavender", "text": "A silver charm that may or may not be lucky.", "villainId": "lavender-chaos-queen" }
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Your ideal weekend has…",
+      "answers": [
+        { "id": "q4-pink", "text": "A cute plan, and a backup cute plan.", "villainId": "pink-manipulator" },
+        { "id": "q4-romantic", "text": "A candlelit playlist and a dramatic exit.", "villainId": "romantic-menace" },
+        { "id": "q4-innocent", "text": "A cute café and a very observant seat.", "villainId": "innocent-menace" }
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "Choose your signature color story.",
+      "answers": [
+        { "id": "q5-corporate", "text": "Power neutrals with one sharp red.", "villainId": "corporate-heartbreaker" },
+        { "id": "q5-lavender", "text": "Lavender layers with a little sparkle.", "villainId": "lavender-chaos-queen" },
+        { "id": "q5-innocent", "text": "Cream, butter yellow, and a soft blue secret.", "villainId": "innocent-menace" }
+      ]
+    }
+  ]
+}

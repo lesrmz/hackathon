@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#dcd3ed"/>
+  <path d="M0 300 400 270v130H0z" fill="#c7b9df"/>
+  <circle cx="200" cy="90" r="42" fill="#c99373"/>
+  <path d="M156 94c-1-57 87-70 96-7l-8 54-16-52-61 1-10 48-15-10z" fill="#32273a"/>
+  <path d="m161 133-49 35-28 138 66 17 16-112 4 137h72l5-137 16 110 67-18-36-137-50-33z" fill="#594269"/>
+  <path d="m161 133 39 46 40-46 27 24-31 40 20 114h-111l19-114-31-40z" fill="#8e76a4"/>
+  <path d="m183 142 17 37 18-37-18 113z" fill="#d4bd90"/>
+  <path d="m113 168-28 139M286 168l36 135" stroke="#413249" stroke-width="7"/>
+  <path d="M189 90q10 8 20 0M194 111q7 8 14 0" fill="none" stroke="#44353f" stroke-width="3" stroke-linecap="round"/>
+  <path d="M305 44v28m-14-14h28m-24-10 20 20m0-20-20 20" stroke="#f8f0cf" stroke-width="3"/>
+  <text x="25" y="370" font-family="Georgia" font-size="16" fill="#493958" letter-spacing="4">VELVET AFTER HOURS</text>
+</svg>

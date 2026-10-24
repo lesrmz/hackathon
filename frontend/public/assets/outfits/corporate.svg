@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#e6ddd5"/>
+  <path d="M0 305 400 280v120H0z" fill="#d4c7bd"/>
+  <circle cx="200" cy="88" r="42" fill="#dcae8c"/>
+  <path d="M155 88c-3-58 91-67 100-6l-11 48-15-48-67-1-10 47-13-8z" fill="#352a2d"/>
+  <path d="m160 133-48 31-29 146 69 15 13-108 5 133h69l6-133 17 108 65-19-35-145-49-28z" fill="#373338"/>
+  <path d="m160 133 40 47 40-47 28 22-31 42 18 113h-94l18-113-31-42z" fill="#f2eee9"/>
+  <path d="m179 147 21 33 21-33-21 126z" fill="#bd4259"/>
+  <path d="M111 171 88 309M288 169l37 137" stroke="#a89a90" stroke-width="5"/>
+  <path d="M192 90q8 7 16 0M192 111q9 8 18 0" fill="none" stroke="#4a3435" stroke-width="3" stroke-linecap="round"/>
+  <rect x="275" y="48" width="78" height="52" rx="4" fill="#51444a" transform="rotate(8 275 48)"/>
+  <text x="287" y="81" font-family="Arial" font-size="13" fill="#fff">APPROVED</text>
+  <text x="25" y="370" font-family="Georgia" font-size="16" fill="#55494b" letter-spacing="4">MEETING ADJOURNED</text>
+</svg>

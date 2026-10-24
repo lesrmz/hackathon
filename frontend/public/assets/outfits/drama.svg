@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#f1dfca"/>
+  <path d="M0 305 400 280v120H0z" fill="#e2cdb7"/>
+  <circle cx="200" cy="89" r="42" fill="#e2b38f"/>
+  <path d="M156 95c-4-55 90-69 98-6l-11 47-16-48-61 1-11 43-14-10z" fill="#624038"/>
+  <path d="m160 135-46 31-31 147 68 13 16-112 5 136h72l5-136 17 112 66-15-36-145-49-31z" fill="#bf6a79"/>
+  <path d="m160 135 40 45 40-45 27 22-30 43 20 111H143l20-111-31-43z" fill="#f2e6d7"/>
+  <path d="m166 140 34 39 34-39-11 72h-47z" fill="#e1b44f"/>
+  <path d="m117 166-30 141M284 166l39 139" stroke="#92495c" stroke-width="7"/>
+  <path d="M187 91q11 8 22 0M192 111q8 7 16 0" fill="none" stroke="#63403d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M292 55c20-19 45 9 20 25-25 16-46-7-20-25z" fill="#d64f72"/>
+  <text x="25" y="370" font-family="Georgia" font-size="16" fill="#76505a" letter-spacing="4">THE GRAND ENTRANCE</text>
+</svg>

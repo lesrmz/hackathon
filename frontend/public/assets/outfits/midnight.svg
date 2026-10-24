@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#252838"/>
+  <circle cx="322" cy="71" r="30" fill="#f1e6c7"/>
+  <circle cx="335" cy="59" r="27" fill="#252838"/>
+  <path d="M0 300 400 270v130H0z" fill="#34374c"/>
+  <circle cx="200" cy="91" r="42" fill="#bd8f75"/>
+  <path d="M155 99c-4-61 91-72 101-7l-12 52-15-55-64 1-10 51-14-13z" fill="#14151d"/>
+  <path d="m159 136-49 34-28 145 66 16 16-110 5 137h73l5-137 17 111 66-19-37-143-48-34z" fill="#181b28"/>
+  <path d="m159 136 41 44 40-44 26 22-31 42 20 111h-110l18-111-30-42z" fill="#34394d"/>
+  <path d="m179 146 21 34 21-34-21 125z" fill="#a8a9c6"/>
+  <path d="M113 171 84 312M286 170l36 139" stroke="#a8a9c6" stroke-width="5"/>
+  <path d="M189 92q10 7 20 0M194 112q7 7 14 0" fill="none" stroke="#342833" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="75" cy="70" r="2" fill="#fff0c7"/><circle cx="118" cy="44" r="2" fill="#fff0c7"/><circle cx="265" cy="120" r="2" fill="#fff0c7"/>
+  <text x="25" y="370" font-family="Georgia" font-size="16" fill="#d3cbe2" letter-spacing="4">AFTER DARK, ALWAYS</text>
+</svg>
